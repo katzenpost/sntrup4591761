@@ -9,7 +9,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/companyzero/sntrup4591761"
+	"github.com/katzenpost/sntrup4591761"
 )
 
 func usageError() {

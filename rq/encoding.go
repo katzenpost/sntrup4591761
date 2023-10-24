@@ -7,7 +7,7 @@
 package rq
 
 import (
-	"github.com/companyzero/sntrup4591761/rq/modq"
+	"github.com/katzenpost/sntrup4591761/rq/modq"
 )
 
 // Encode packs an element of Rq into 1218 bytes.

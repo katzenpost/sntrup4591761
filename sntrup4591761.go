@@ -12,11 +12,11 @@ import (
 	"crypto/subtle"
 	"io"
 
-	"github.com/companyzero/sntrup4591761/r3"
-	"github.com/companyzero/sntrup4591761/r3/mod3"
-	"github.com/companyzero/sntrup4591761/rq"
-	"github.com/companyzero/sntrup4591761/rq/modq"
-	"github.com/companyzero/sntrup4591761/zx"
+	"github.com/katzenpost/sntrup4591761/r3"
+	"github.com/katzenpost/sntrup4591761/r3/mod3"
+	"github.com/katzenpost/sntrup4591761/rq"
+	"github.com/katzenpost/sntrup4591761/rq/modq"
+	"github.com/katzenpost/sntrup4591761/zx"
 )
 
 const (

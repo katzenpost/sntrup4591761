@@ -7,7 +7,7 @@
 package vector
 
 import (
-	"github.com/companyzero/sntrup4591761/r3/mod3"
+	"github.com/katzenpost/sntrup4591761/r3/mod3"
 )
 
 // Swap swaps x and y if mask is -1. If mask is 0, x and y retain

@@ -9,8 +9,8 @@
 package rq
 
 import (
-	"github.com/companyzero/sntrup4591761/rq/modq"
-	"github.com/companyzero/sntrup4591761/rq/vector"
+	"github.com/katzenpost/sntrup4591761/rq/modq"
+	"github.com/katzenpost/sntrup4591761/rq/vector"
 )
 
 // swapInt swaps x and y if mask is -1. If mask is 0, x and y retain
